@@ -1,0 +1,10 @@
+; --Do not use this, it is beta addon--
++NumpadAdd 
+send {GUI_size_Up 1}
+send {GUI_width_Up 1}
++NumpadSub
+send {GUI_size_Down 1}
+send {GUI_width_Down 1}
++NumpadMult
+send {GUI, close, 3}
+return
