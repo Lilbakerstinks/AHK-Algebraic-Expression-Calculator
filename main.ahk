@@ -1,6 +1,6 @@
 ; Advanced Calculator Script
 
---feel free to change GUI settings as wanted--
+; --feel free to change GUI settings as wanted--
 
 ; GUI Settings
 Gui +AlwaysOnTop
