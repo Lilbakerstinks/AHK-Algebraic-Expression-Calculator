@@ -1,5 +1,7 @@
 ; Advanced Calculator Script
 
+--feel free to change GUI settings as wanted--
+
 ; GUI Settings
 Gui +AlwaysOnTop
 Gui Add, Edit, w300 vInput
